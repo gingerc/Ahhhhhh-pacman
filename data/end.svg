@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="792px"
+	 height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<ellipse fill="#6BC4A2" cx="420.335" cy="156.048" rx="235.333" ry="226.048"/>
+	<rect x="278" y="57" fill="none" width="302" height="243"/>
+	<text transform="matrix(1 0 0 1 278 96.2695)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="55">GAME OVER</tspan><tspan x="0" y="66" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="55">      </tspan><tspan x="91.74" y="66" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="45">score</tspan><tspan x="0" y="132" fill="#FFFFFF" font-family="'HelveticaNeue-Thin'" font-size="55">     </tspan></text>
+	<circle fill="#FFFFFF" cx="414" cy="308" r="48"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#6BC4A1" stroke-width="2" stroke-miterlimit="10" d="M380.583,324.214
+				c-2.456-19.661,10.86-38.041,30.597-41.629c16.348-2.973,32.012,7.872,34.984,24.22c2.38,13.078-6.298,25.609-19.375,27.986
+				c-10.465,1.903-20.49-5.037-22.393-15.5c-1.521-8.37,4.031-16.39,12.403-17.913c6.696-1.217,13.112,3.224,14.33,9.92
+				c0.972,5.358-2.582,10.489-7.938,11.464c-4.285,0.778-8.393-2.063-9.171-6.349c-0.293-1.609,0.053-3.187,0.856-4.473"/>
+			<g>
+				<polygon fill="#6BC4A1" points="388.182,317.062 386.641,315.849 380.67,323.447 373.526,316.936 372.206,318.387 
+					380.907,326.315 				"/>
+			</g>
+			<g>
+				<circle fill="#6BC4A1" cx="414.293" cy="313.226" r="10.678"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
